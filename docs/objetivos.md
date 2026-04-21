@@ -1,5 +1,5 @@
 # Objetivos del mini proyecto Campus U1
-
+Aprender a usar ramas en git
 ## Objetivo general
 
 Organizar una base documental inicial para un sistema académico sencillo que permita:
