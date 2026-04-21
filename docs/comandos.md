@@ -14,6 +14,7 @@
 
 - `git log --oneline`: historial resumido.
 - `git diff`: muestra cambios no confirmados.
+- ´git pull: trae los datos a mi terminal
 
 ## Sección D - Ramas e integración
 
@@ -21,6 +22,7 @@
 - `git branch <rama>`: crea nueva rama.
 - `git checkout <rama>`: cambia a rama.
 - `git merge <rama>`: integra cambios de otra rama.
+- git pull: origin main abre las novedades en mi terminal
 
 ## Sección E - Corrección de errores
 
