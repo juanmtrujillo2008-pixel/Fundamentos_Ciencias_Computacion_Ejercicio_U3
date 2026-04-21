@@ -40,9 +40,13 @@ git push junto con el origen me ayuda a guardar los cambios en el repositorio de
 ## Reto 2
 
 ### Comandos usados
-
+git branch 
+git checkout 
+git add 
+git commit -m "objetivo"
+git merge 
 ### Decisiones
-
+Primero uso git branch dos veces con los dos nombres para crear las dos ramas. luego uso git checkout para dirigirme a esa rama. Luego hago los cambios necesarios y pongo git add para preparar los cambios y luego commit para guardarlo. Luego voy a la rama principal y con merge guardo los datos de las dos ramas en la primcipal. luego pongo git push para subirlo a github.
 ### Dificultades (opcional)
 
 ---
